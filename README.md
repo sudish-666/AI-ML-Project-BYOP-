@@ -82,7 +82,7 @@ Step 1: Install Requirements
 Step 2: Run Prolog Program
 
 Open terminal and run:
-swipl route_finder.pl
+swipl prolop.pl
 
 Then start:
 ?- start.
@@ -94,7 +94,7 @@ python model.py
 
 Project Structure
 
-* route_finder.pl → Main Prolog program
+* prolop.pl → Main Prolog program
 * model.py → Machine Learning model
 * README.md → Project documentation
 
